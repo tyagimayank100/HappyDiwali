@@ -49,6 +49,9 @@ body {
     .card {
         width: 100%;
     }
+    .mayank-font{
+        margin-top: 12px;
+    }
 }
 
 .light>* {
